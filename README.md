@@ -1,0 +1,2 @@
+# MCBot
+Mine Castle Bot
